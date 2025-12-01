@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "TOMBOY",
+  "base_artist": "i-dle",
+  "createdAt": "2025-12-01T02:43:58.100485Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tomboy",
+      "artist": "Panda Bear",
+      "has_synced": true,
+      "path": "select/01_Tomboy_Panda_Bear.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Young Again - Whomadewho & Tomboy Remix",
+      "artist": "Kasper Bjørke",
+      "has_synced": false,
+      "path": "select/02_Young_Again_-_Whomadewho_&_Tomboy_Remix_Kasper_Bjørke.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Young Again (WhoMadeWho & Tomboy Remix)",
+      "artist": "Kasper Bjørke",
+      "has_synced": false,
+      "path": "select/03_Young_Again_(WhoMadeWho_&_Tomboy_Remix)_Kasper_Bjørke.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tomboy",
+      "artist": "Habibi",
+      "has_synced": true,
+      "path": "select/04_Tomboy_Habibi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tomboy",
+      "artist": "Ronnie Dove",
+      "has_synced": false,
+      "path": "select/05_Tomboy_Ronnie_Dove.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tomboy",
+      "artist": "Miranda Lambert",
+      "has_synced": false,
+      "path": "select/06_Tomboy_Miranda_Lambert.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tomboy",
+      "artist": "Crosby, Stills & Nash",
+      "has_synced": false,
+      "path": "select/07_Tomboy_Crosby,_Stills_&_Nash.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hey, Little Tomboy - Remastered 2000",
+      "artist": "The Beach Boys",
+      "has_synced": false,
+      "path": "select/08_Hey,_Little_Tomboy_-_Remastered_2000_The_Beach_Boys.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hey, Little Tomboy",
+      "artist": "The Beach Boys",
+      "has_synced": false,
+      "path": "select/09_Hey,_Little_Tomboy_The_Beach_Boys.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tomboy",
+      "artist": "INÜIT",
+      "has_synced": true,
+      "path": "select/10_Tomboy_INÜIT.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tomboy",
+      "artist": "Inuit",
+      "has_synced": true,
+      "path": "select/11_Tomboy_Inuit.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tomboy",
+      "artist": "HYUKOH",
+      "has_synced": true,
+      "path": "select/12_Tomboy_HYUKOH.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "TOMBOY",
+      "artist": "(G)I-DLE",
+      "has_synced": true,
+      "path": "select/13_TOMBOY_(G)I-DLE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "TOMBOY",
+      "artist": "(G)I‐DLE",
+      "has_synced": true,
+      "path": "select/14_TOMBOY_(G)I‐DLE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tomboy",
+      "artist": "Destiny Rogers",
+      "has_synced": true,
+      "path": "select/15_Tomboy_Destiny_Rogers.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Tomboy",
+      "artist": "Destiny Rogers",
+      "has_synced": true,
+      "path": "select/16_Tomboy_Destiny_Rogers.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "TOMBOY",
+      "artist": "(G)I-DLE",
+      "has_synced": true,
+      "path": "select/17_TOMBOY_(G)I-DLE.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "TOMBOY (Explicit Version)",
+      "artist": "(G)I-DLE",
+      "has_synced": true,
+      "path": "select/18_TOMBOY_(Explicit_Version)_(G)I-DLE.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "TOMBOY (Explicit Version)",
+      "artist": "(G)I-DLE",
+      "has_synced": true,
+      "path": "select/19_TOMBOY_(Explicit_Version)_(G)I-DLE.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "TOMBOY",
+      "artist": "i-dle",
+      "has_synced": false,
+      "path": "select/pl_TOMBOY_i-dle.txt"
+    }
+  ]
+}
